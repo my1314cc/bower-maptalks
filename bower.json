@@ -1,0 +1,26 @@
+{
+  "name": "bower-maptalks",
+  "description": "A light JavaScript library to create integrated 2D/3D maps.",
+  "main": "dist/maptalks.js",
+  "authors": [
+    "Fu Zhen"
+  ],
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "javascript",
+    "gis",
+    "map",
+    "2d-maps",
+    "3d-maps",
+    "geospatial"
+  ],
+  "homepage": "https://github.com/my1314cc/bower-maptalks",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
