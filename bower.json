@@ -15,7 +15,7 @@
     "geospatial"
   ],
   "homepage": "https://github.com/my1314cc/bower-maptalks",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
